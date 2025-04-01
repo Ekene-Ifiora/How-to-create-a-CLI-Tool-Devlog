@@ -1,0 +1,12 @@
+README.md
+setup.py
+devlog/__init__.py
+devlog/cli.py
+devlog/log_manager.py
+devlog/utils.py
+devlog.egg-info/PKG-INFO
+devlog.egg-info/SOURCES.txt
+devlog.egg-info/dependency_links.txt
+devlog.egg-info/entry_points.txt
+devlog.egg-info/requires.txt
+devlog.egg-info/top_level.txt

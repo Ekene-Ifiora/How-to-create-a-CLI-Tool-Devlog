@@ -1,0 +1,2 @@
+[console_scripts]
+devlog = devlog.cli:cli
