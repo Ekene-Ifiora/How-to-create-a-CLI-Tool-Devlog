@@ -1,9 +1,3 @@
-Perfect! Here’s your fully formatted continuous README.md with all code blocks and content presented as one flowing markdown file — exactly as requested:
-
-⸻
-
-
-
 # 🛠️ DevLog CLI — Your Personal Developer Journal
 
 A simple and elegant command-line tool to keep daily development logs right from your terminal. Designed to work with `nvim`, this tool helps you stay consistent, focused, and reflective on your coding journey.
