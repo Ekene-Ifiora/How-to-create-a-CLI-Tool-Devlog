@@ -6,7 +6,8 @@ A simple and elegant command-line tool to keep daily development logs right from
 
 ## 📸 Preview
 
-![DevLog CLI Demo](assets/image1)
+![image1](https://github.com/user-attachments/assets/8336c230-22f3-475c-807e-653ba4c37dd8)
+
 
 ---
 
@@ -29,16 +30,7 @@ Follow these steps to set up and start using your DevLog CLI.
 
 Make sure your project folder looks like this:
 
-devlog/
-├── devlog/
-│   ├── init.py
-│   ├── cli.py
-│   ├── log_manager.py
-│   └── utils.py
-├── setup.py
-├── requirements.txt
-├── README.md
-└── venv/
+<img width="198" alt="image" src="https://github.com/user-attachments/assets/a533fc3c-b698-483a-83cf-6f8452d4431f" />
 
 > 🧠 The inner `devlog/` directory is your Python package. Make sure it contains an `__init__.py` file.
 
@@ -72,6 +64,7 @@ Logs are saved in the same directory as your `log_manager.py` file, or in a `log
 
 ## 🧩 CLI Code Breakdown
 
+```python
 **cli.py**
 
 import click
@@ -110,6 +103,7 @@ if not os.path.exists(filepath):
         f.write("## What I did today\n\n- \n\n## What I learned\n\n- \n")
 
 subprocess.run(["nvim", filepath])
+```
 
 ---
 
