@@ -151,7 +151,7 @@ PRs and feedback are welcome. This is a personal journaling tool, but improvemen
 
 To contribute:
 
-git clone https://github.com/yourusername/devlog.git
+git clone [https://github.com/yourusername/devlog.git](https://github.com/Ekene-Ifiora/How-to-create-a-CLI-Tool-Devlog.git)
 cd devlog
 pip install -e .
 
